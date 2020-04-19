@@ -4,3 +4,4 @@ Hello, Git!!
 
 Hello, Git! (Урок 10)
 Hello, git rebase!
+Hello, git rebase 2!
