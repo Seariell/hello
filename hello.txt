@@ -1,3 +1,6 @@
 Hello, World!
 Hello, Git!!
 Другая строка
+
+Hello, Git! (Урок 10)
+Hello, git rebase!
